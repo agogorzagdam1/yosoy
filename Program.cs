@@ -7,7 +7,7 @@ namespace yosoy
         static void Main(string[] args)
         {
             Console.WriteLine("Yo soy Aitor.");//@aetxabao
-            Console.WriteLine("Ni ez naiz Aitor, Asier naiz"); // @agogorzag
+            Console.WriteLine("Ni ez naiz Aitor, Asier naiz");//@agogorzagdam1
         }
     }
 }
